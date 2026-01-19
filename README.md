@@ -5,8 +5,7 @@
   ### 🎓 Computer Science Student • Developer • Designer
 
   <p align="center">
-    <a href="https://elyasos.github.io/my-portfolio/">
-      <img src="https://img.shields.io/badge/View_My_Portfolio-2563eb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+   <a href="https://my-portfolio-three.vercel.app/"> <img src="https://img.shields.io/badge/View_My_Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://linkedin.com/in/elyas-alturkistani">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
