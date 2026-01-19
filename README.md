@@ -24,7 +24,7 @@
 
 I am a **Computer Science Student** at **King Abdulaziz University**, nearing graduation. I am passionate about building software that is both functional and beautiful. Currently specializing in **Cybersecurity** at **KAUST**.
 
-* 🔭 I’m currently working on **EnableMe**, a crowdsourced accessibility platform.
+* 🔭 I’m currently working on the **EV Charging Management System**, focusing on full-cycle software engineering, including UML modeling and system architecture.
 * 🌱 I’m currently learning **Advanced Network Security** and **Threat Analysis**.
 * 🎨 I love combining **Code** with **UI/UX Design**.
 
