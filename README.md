@@ -2,7 +2,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=250&section=header&text=Elyas%20AlTurkistani&fontSize=80&fontColor=ffffff&fontAlignY=40" width="100%" alt="Header" />
 
-  ### 🎓 Computer Science Student • Developer • Designer
+  ### 🎓 Computer Science Student • Cyber Security Specialist • Developer • Designer
 
   <p align="center">
    <a href="https://elyasos.vercel.app/"> <img src="https://img.shields.io/badge/View_My_Portfolio-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
